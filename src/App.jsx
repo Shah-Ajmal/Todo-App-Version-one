@@ -9,8 +9,7 @@ function App() {
     <center className="todo-container">
       <AppName />
       <AddTodo />
-      <div className="item-container">
-        {" "}
+      <div className="items-container">
         <TodoItem1 />
         <TodoItem2 />
       </div>
